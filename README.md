@@ -24,8 +24,8 @@ Install all dependencies:
 ```bash
 pip install -r requirements.txt
 
-## Run the App
+Run the App
 
 streamlit run app.py
 
-### Watch the youtube demo here: https://youtu.be/uY3kN7t9Ie4
+Watch the youtube demo here: https://youtu.be/uY3kN7t9Ie4
