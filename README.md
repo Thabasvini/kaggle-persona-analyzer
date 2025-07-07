@@ -1,5 +1,9 @@
 # Kaggle Persona Analyzer
 
+![App Preview](screenshot1.png)
+![App Preview](screenshot2.png)
+
+
 This is a Streamlit-based application built for the **Meta Kaggle Hackathon 2025**. It analyzes Kaggle user behavior to generate unique AI personas using notebook activity data.
 
 ## Features
